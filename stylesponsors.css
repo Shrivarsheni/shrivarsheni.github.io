@@ -1,0 +1,17 @@
+h1
+{font-size:40px;text-align: center;color:red;}
+h2,h3,h4,h5
+{font-size:30px;text-align: center;color:yellow;}
+p
+{font-size:15px;
+   font-family: cursive;
+ text-align: center;
+color:white;
+}
+body
+{background-image:url(pic5.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+
+}
